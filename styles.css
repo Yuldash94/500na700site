@@ -413,6 +413,10 @@ footer {
   .logo {
     margin-right: 100px;
   }
+  .menu_item:active .menu_item_sublist {
+    display: block;
+    right: 30px;
+  }
   main {
     margin-top: 120px;
   }
